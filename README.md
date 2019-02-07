@@ -12,6 +12,8 @@ These pieces are more than abstract knits on wood frames. Channing Hansen hand-k
 
 [Here's a link to the piece](https://www.vice.com/en_us/article/qvdgbq/channing-hansen-hand-knit-paintings-dna-algorithms)
 
+---------------------
+
 ##### Memo Akten - Simple Harmonic Motion (2016)
 
 ![Memo Akten](images/akten.png?raw=true "Memo Akten")
@@ -21,4 +23,5 @@ These pieces are more than abstract knits on wood frames. Channing Hansen hand-k
 Memo Akten's "Simple Harmonic Motion" is composed of a series of pieces. Pictured here are excerpts of piece #14. The goal of the series is to explore "the emergence of complex behaviour through the interaction of simple multilayered rhythms." Each piece is a video of simple motion series accompanied by music. Akten means to invoke the interactions of man and machine, of chaos and order, of technology and nature. The interwoven visual and sonic components all come from a complex signal broken down into its simplest parts on different frequencies - they visualize the normally invisible mathematical processes underlying natural things around us. 
 
 [Here's a link to the piece](http://www.memo.tv/portfolio/simple-harmonic-motion-14/)
+
 [Here's a link to samples of the whole series](http://www.memo.tv/portfolio/simple-harmonic-motion/)
